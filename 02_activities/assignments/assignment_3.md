@@ -6,8 +6,8 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-*** "The History of the NFL" ***
+        
+```*** "The History of the NFL" ***
  Accessibility
 The clear design, logical structure, and interactive features enhance usability, aligning with Tufte’s clarity principles. However, there’s no mention of colorblind-friendly palettes or screen reader compatibility, limiting access for visually impaired users (Ware, 2012).
 
@@ -27,11 +27,13 @@ To make the visualization more reproducible, it should provide transparent docum
 
 Equity
 For greater equity, the visualization could offer multilingual support to reach non-English speakers and include diverse global examples of data visualizations. Highlighting case studies from a variety of cultural and industry contexts, especially those representing marginalized communities, would ensure a broader, more inclusive perspective (D’Ignazio & Klein, 2020).
+```
 
 
-        ```
+        
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
+        
+```
 *** "The History of the NFL" ***
 
 Accessibility: Use colorblind-friendly palettes, optimize for mobile devices, and ensure compatibility with screen readers. Include alternative text for visuals to support users with disabilities.
@@ -49,9 +51,10 @@ The tool could improve reproducibility by providing transparent data sources, de
 
 Equity:
 For greater equity, the visualization could provide multilingual support and feature diverse case studies, particularly from marginalized communities. Showcasing global and culturally inclusive examples would ensure broader representation and align with D’Ignazio and Klein's (2020) focus on inclusivity in data storytelling.
+```
 
 
-        ```
+        
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
