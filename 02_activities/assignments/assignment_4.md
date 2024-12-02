@@ -8,22 +8,61 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    > 
+    > Python and Power BI
 
-    > Who is your intended audience? 
+    > Who is your intended audience?
+    >
+    > The intended audience includes policymakers, educational planners, school boards, and stakeholders interested in the state of public education in Ontario. Secondary audiences might include parents, researchers, and community advocates who wish to understand patterns in school locations, types, and accessibility.
     
-    > What information or message are you trying to convey with your visualization? 
+    > What information or message are you trying to convey with your visualization?
+    > 
+    > The visualizations aim to provide insights into:
+    >The distribution of schools by region and city.
+    >Trends in school openings over time.
+    >Differences in school types, grade ranges, and languages of instruction.
+    >Geographic accessibility of schools across Ontario.
+    >The goal is to inform decision-making and promote equitable access to education.
     
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    > 
+    > Substantive Principles: Focused on delivering accurate, meaningful data insights. Each visualization directly addresses a key question (e.g., regional distribution or grade ranges).
+    > Perceptual Principles: Used clear labels, intuitive color schemes (e.g., blue for geographic data, green for growth), and avoided clutter. Bar charts and line plots were chosen for clarity and simplicity.
+    > Aesthetic Principles: Balanced simplicity with visual appeal by applying consistent formatting, professional fonts, and proportional spacing. The pie chart used harmonious colors to distinguish categories.
     
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+    > 
+    > Reproducibility: Python code was used with libraries such as pandas and matplotlib. The code and dataset URL were provided, ensuring anyone with Python installed can recreate the visualizations.
+    > Non-reproducible Tools: Tools like Tableau might not allow full reproducibility unless the project file and dataset are shared. In such cases, Python or open-source tools would be prioritized to ensure transparency and repeatability.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible?
+    > 
+    > Accessible Design:
+    > Used high-contrast colors for readability.
+    > Added clear labels, titles, and legends.
+    > Ensured visualizations were compatible with screen readers by including descriptive titles and alternative text when embedding in reports or websites.
+    > Alternative Formats: Provided raw data and insights in tabular form for individuals who may not benefit from visual data.
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
+    > Who are the individuals and communities who might be impacted by your visualization?
+    > 
+    > Directly Impacted:
+    > School administrators and planners who may use the data to improve resource allocation.
+    > Parents and students, especially in underserved or rural areas, who might benefit from insights into school accessibility.
+    > Indirectly Impacted:
+    > Policymakers shaping education strategies.
+    > Researchers analyzing trends in public education infrastructure.
     
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+    > Inclusion: Selected features that aligned with the key questions, such as school region, board type, grade range, and opening date, to ensure relevant insights.
+    > Exclusion: Columns like fax numbers and postal codes were excluded from visualizations as they provided minimal value for high-level analysis but remain available in the dataset for specific needs.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    > 
+    > Data Cleaning: Ensured missing values were handled appropriately (e.g., converting Date Open into a usable format).
+    > Exploratory Analysis: Conducted preliminary data exploration to understand patterns and outliers.
+    > Tool Selection: Evaluated the best visualization tools (Python and Tableau) based on reproducibility, user familiarity, and project needs.
+    > Iteration: Refined visualizations through feedback to ensure clarity and relevance.
+    > Documentation: Provided reproducible code and detailed descriptions for transparency.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
